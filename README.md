@@ -13,8 +13,8 @@
 
 2.Create a folder named yolov3 on Google Driveand upload the images.zip file inside it. The directory structure should look something like the following:
 ```bash
-yolov3
-|__images.zip
+
+fish_images_annotated_yolo_formal.zip
    |__ *.jpg (all image files)
    |__ *.txt (all annotation files)
 ```
