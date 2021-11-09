@@ -1,4 +1,4 @@
-# Object_detection-fish_and_path_prediction
+# Object detection(fish) and path prediction using forecasting algorithm
 # Steps:
 
 1.Prepare your dataset and label them in YOLO format using 'LabelImg'. Once done, zip all the images and their corresponding label files as images.zip.
@@ -41,8 +41,7 @@ cap = cv2.VideoCapture('/Users/anubhav/Desktop/fish_clip_s.mp4')
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76263415/140932458-72276e58-e8ab-427c-8140-b0f96945d4c4.gif)
 # Path pediction plot using Forecasting Model(SARMIAX)
-![image](https://user-images.githubusercontent.com/76263415/140932184-85c7f03d-7432-4e93-9945-c1e6302d1687.png)
-
+![image](https://user-images.githubusercontent.com/76263415/140935097-cf8f5a70-cb23-49b9-83b4-54b7ac3e54a4.png)
 
 
 
