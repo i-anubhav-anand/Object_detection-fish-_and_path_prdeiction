@@ -29,8 +29,11 @@ yolov3_training_last.weights
 yolov3_custom.cfg
 classes.txt
 ```
-You can also download the same file from my github repository 
+(You can also download the same file from my github repository 
 and change the file location in the code.
+
+You can download trained weights from here
+https://www.dropbox.com/s/gmw2774nrsw7ovk/yolov3-obj_30000.weights?dl=0)
 ```bash
 net = cv2.dnn.readNetFromDarknet("/Users/anubhav/Desktop/yolov3_custom.cfg",
                                  "/Users/anubhav/Desktop/yolov3-obj_30000.weights")
