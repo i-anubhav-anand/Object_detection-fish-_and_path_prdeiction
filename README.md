@@ -1,4 +1,12 @@
 # Object detection(fish) and path prediction using forecasting algorithm
+
+# Introduction:
+
+1.Trained an object detection model to identify  object.
+
+2.Use any open source video to track the position of the object and predict its path based on the previous points.
+
+
 # Steps:
 
 1.Prepare your dataset and label them in YOLO format using 'LabelImg'. Once done, zip all the images and their corresponding label files as images.zip.
