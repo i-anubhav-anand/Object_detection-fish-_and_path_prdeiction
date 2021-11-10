@@ -1,4 +1,4 @@
-# Object detection(fish) and path prediction using forecasting algorithm
+# Object detection and path prediction using forecasting algorithm
 
 # Introduction:
 
