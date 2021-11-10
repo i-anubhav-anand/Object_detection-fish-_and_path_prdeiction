@@ -2,9 +2,9 @@
 
 # Introduction:
 
-1.Trained an object detection model to identify  object.
+1.Trained an object detection model using Darknet to identify the subject.
 
-2.Use any open source video to track the position of the object and predict its path based on the previous points.
+2.Tracked the position of the object and predicted its path based on the previous points.
 
 
 # Steps:
