@@ -51,8 +51,14 @@ cap = cv2.VideoCapture('/Users/anubhav/Desktop/fish_clip_s.mp4')
 
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76263415/140932458-72276e58-e8ab-427c-8140-b0f96945d4c4.gif)
+# Path pediction plot using AR(Autoregressive) Forecasting Model
+![image](https://user-images.githubusercontent.com/76263415/141079957-97dd8d10-eb8d-4b13-b911-617ec037b538.png)
+
+
 # Path pediction plot using Forecasting Model(SARMIAX)
-![image](https://user-images.githubusercontent.com/76263415/140935097-cf8f5a70-cb23-49b9-83b4-54b7ac3e54a4.png)
+![image](https://user-images.githubusercontent.com/76263415/141080056-099d2220-95b2-4f7b-82dd-234c23dd2dcd.png)
+
+
 
 
 
