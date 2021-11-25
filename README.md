@@ -57,10 +57,10 @@ https://user-images.githubusercontent.com/76263415/143421625-6b64d3af-49fb-4741-
 # Path pediction plot using AR(Autoregressive) Forecasting Model
 
 Prediction OF Y-cordinate of Centroid<br>
-<img width="294" alt="image" src="https://user-images.githubusercontent.com/76263415/143420899-93aa4b89-3574-40c4-9642-addfecf5adc5.png">
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/76263415/143440657-cdf9b763-c048-4dab-97b0-25e0287d7b3e.png">
 
 Prediction OF X-cordinate of Centroid<br>
-<img width="297" alt="image" src="https://user-images.githubusercontent.com/76263415/143421061-ad914f48-db69-4bc0-8280-421be0ea7341.png">
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/76263415/143440706-4f382e9d-d6ae-427d-b016-15e62d5e4462.png">
 
 
 
