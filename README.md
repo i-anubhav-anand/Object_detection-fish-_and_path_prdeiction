@@ -48,17 +48,24 @@ cap = cv2.VideoCapture('/Users/anubhav/Desktop/fish_clip_s.mp4')
 ```
 
 
+https://user-images.githubusercontent.com/76263415/143421625-6b64d3af-49fb-4741-afe0-283ee35c199e.mp4
 
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76263415/140932458-72276e58-e8ab-427c-8140-b0f96945d4c4.gif)
+
+
+
 # Path pediction plot using AR(Autoregressive) Forecasting Model
-![image](https://user-images.githubusercontent.com/76263415/141079957-97dd8d10-eb8d-4b13-b911-617ec037b538.png)
+
+Prediction OF Y-cordinate of Centroid
+<img width="294" alt="image" src="https://user-images.githubusercontent.com/76263415/143420899-93aa4b89-3574-40c4-9642-addfecf5adc5.png">
+
+Prediction OF Y-cordinate of Centroid
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/76263415/143421061-ad914f48-db69-4bc0-8280-421be0ea7341.png">
 
 
-# Path pediction plot using Forecasting Model(SARMIAX)
-![image](https://user-images.githubusercontent.com/76263415/141080056-099d2220-95b2-4f7b-82dd-234c23dd2dcd.png)
 
-
+# Path pediction plot using Forecasting Model(VAR)
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/76263415/143420834-d7a02244-5656-451f-a420-6145d7f00ea8.png">
 
 
 
